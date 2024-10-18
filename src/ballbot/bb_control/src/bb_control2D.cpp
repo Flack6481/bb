@@ -36,6 +36,7 @@
  *********************************************************************/
 
 //#include <bb_control/bb_control_node.hpp>
+#include <vector>
 #include <bb_control/bb_control2D.hpp>
 
 namespace ballbot

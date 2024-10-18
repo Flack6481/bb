@@ -14,6 +14,7 @@ find_package(catkin REQUIRED COMPONENTS
   std_msgs
   hardware_interface
   controller_manager
+  plotjuggler
 )
 
 find_package (Eigen3 3.3 REQUIRED NO_MODULE)
